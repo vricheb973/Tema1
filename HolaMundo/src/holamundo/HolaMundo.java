@@ -15,7 +15,6 @@ public class HolaMundo {
 		
 		//Estoy declarando la variable a
 		int a = 1;
-		int b = 2;
 		
 		//Aquí estoy declarando una constante
 		final double NUMERO_PI = 3.1416;
