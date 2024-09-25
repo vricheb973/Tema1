@@ -14,6 +14,7 @@ public class Diapositiva59 {
 		System.out.println("Hola " + nombre);
 		
 		int a = 1;
+		int b = 2;
 		
 	}
 
