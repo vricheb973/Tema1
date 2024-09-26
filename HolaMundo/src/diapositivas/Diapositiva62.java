@@ -1,4 +1,4 @@
-package holamundo;
+package diapositivas;
 
 import java.util.Scanner;
 
