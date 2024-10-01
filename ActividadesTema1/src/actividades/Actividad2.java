@@ -17,7 +17,8 @@ public class Actividad2 {
 		int perimetro = 2 * (base+altura);
 		int area = (base * altura);
 		
-		System.out.println("El perímetro es " + perimetro + " y el área es " + area);
+		System.out.println("El perímetro es " + perimetro 
+				+ " y el área es " + area);
 		
 	}
 
