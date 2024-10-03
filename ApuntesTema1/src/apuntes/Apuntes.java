@@ -20,6 +20,7 @@ public class Apuntes {
 		 * 
 		 * 		Con %d insertamos enteros
 		 * 		Con %f insertamos doubles
+		 * 		Con %s insertamos texto o letras
 		 * 	
 		 * 		Con %.2f limitamos a 2 decimales
 		 */
